@@ -1,7 +1,14 @@
-## Payla�m�� oldu�um projenin �zerinde oynamalar yapabilir,
-## kendinize g�re d�zenleyebilir veya kaynak kodlar�n� kullanabilirsiniz.
+# HÜRRİYET.COM'UN APİ KEYİNİN PHP DE NASIL KULLANILDIĞINI ÖĞRENMENİZE YARDIMCI OLACAK BİR PROJEDİR. 
+# DOSYALARI İNDİRİP, c:/xampp(apache,wamp vs..)/htdocs KLASÖRÜNE KOYUNUZ.
+# DAHA SONRA https://developers.hurriyet.com.tr/ girip kendinize bir API KEY oluşturunuz.
+# OLUŞTURDUĞUNUZ API KEY'İNİ KOPLAYAYINIZ VE INDEX.PHP DOSYASINI AÇIP "API KEYİNİZ" YAZAN KISIMA YAPIŞTIRINIZ.
+# ARTIK HABERLERİNİZİ GÖRÜNTÜLEYEBİLİRSİNİZ.
 
-# UMARIM ���N�ZE YARAR, KOLAY GELS�N.
+
+## PAYLAŞMIŞ OLDUĞUM PROJENİN ÜZERİNDE OYNAMALAR YAPABİLİR,
+## KEYFİNİZE GÖRE DÜZENLEYEBİLİR, KAYNAK KODLARINI İSTEDİĞİNİZ YERDE KULLANABİLİRSİNİZ.
+
+# UMARIM İŞİNİZE YARAR, KOLAY GELSİN.
 
 
-## ALP BOZDA�
+## ALP BOZDAĞ
