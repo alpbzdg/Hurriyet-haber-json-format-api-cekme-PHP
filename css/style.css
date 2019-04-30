@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Oswald;
+}
+
+.container{
+    height: 100%;
+    width: 50%;
+    background: #ecf0f1;
+    margin: 0 auto;
+
+
+}
+.container marquee{
+    font-family: Oswald;
+    margin-top:5px;
+    width: 98%;
+    padding: 3px;
+    border-bottom: 1px solid red;
+    border-top:1px solid red;
+    border-right: 5px solid red;
+
+}
+.son-dakika{
+    position: absolute;
+    margin-top:-30px;
+    margin-left:4px;
+    background: red;
+    padding: 2px;
+    color:#fff;
+    font-weight: bold;
+}
+
+.haber-listele{
+    width: 100%;
+    height: auto;
+    margin-top:20px;
+
+}
+
+.haber-listele img{
+    border:2px solid red;
+
+}
+
+.img-ustu-yazi{
+    background: rgba(00, 00, 00,0.7);
+    height: 100px;
+    width: 620px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    margin-top:-102px;
+    left:1px;
+
+}
+
+.img-ustu-yazi a{
+    color:orange;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    position: relative;
+    top: 35px;
+}
+.img-ustu-yazi a:hover{
+    color:lightblue;
+    transition: 0.5s;
+}
+
+.yol{
+    margin-left:170px;
+
+}
+
+.yol a{
+    background: dodgerblue;
+    color:#fff;
+    border-radius:5px;
+    padding: 2px;
+    text-decoration: none;
+}
+
+.yol a:hover{
+    background: darkblue;
+    transition:0.5s;
+}
+
+.haber-listele p {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: left;
+    color:#3d3d3d;
+}
+.tarih{
+    background: #d3d3d3;
+    padding: 3px;
+    color:#000;
+    margin-left:-385px;
+    border-radius: 5px;
+}
+.link{
+    position: absolute;
+    margin-top:-3px;
+    margin-left:305px;
+    background: red;
+    padding: 3px;
+    color:#fff;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.link:hover{
+
+   background: darkred;
+    transition: 0.5s;
+}
+
+.icerik-yazi{
+    width: 620px;
+    margin: 0 auto;
+}
+
+.oku {
+    text-decoration: none;
+    background: dodgerblue;
+    color:#fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.oku:hover{
+    background: darkblue;
+    transition: 0.5s;
+}
